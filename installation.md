@@ -13,6 +13,10 @@ Go to **Admin** -> **Plugins** then activate the plugins you need.
 
 ![Plugins activate](./images/plugins-activate.png)
 
+## Video tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWv1d8Nz2fs" title="How to install Payment Gateways Plugins in Botble E-commerce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Next steps
 
 After you have installed the plugin, you can start setting up your payment credentials and other settings. Please refer to
