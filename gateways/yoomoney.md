@@ -18,6 +18,10 @@ and it will open the configuration section.
 
 ![YooMoney setup](../images/yoomoney-setup.png)
 
+## Video tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wfj1ehVSrI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Supported currencies
 
 - Dollar USD
