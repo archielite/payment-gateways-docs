@@ -16,9 +16,8 @@ All source code with unminified files are included, you can customize it if you 
 
 ## Demo
 
-- Demo: [payment-gateways.archielite.com](https://payment-gateways.archielite.com)
-- Username: `admin@archielite.com`
-- Password: `12345678`
+- [Admin](https://payment-gateways.archielite.com/admin): `admin@archielite.com`/`12345678`
+- [Customer](https://payment-gateways.archielite.com): `customer@archielite.com`/`12345678`
 
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file, please
 feel free to email via [support page](https://support.archielite.com) for quickly support. Thank you so much!
