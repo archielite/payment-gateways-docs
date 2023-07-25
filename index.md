@@ -2,7 +2,7 @@
 
 ## Extra payment gateways for Botble eCommerce
 
-This is a combo payment gateways. It's including Coinbase, Bux, **Iyzico**, **Yoomoney**, **PayTM**, **Payfast**,
+This is a combo payment gateways. It's including Coinbase, Bux, **Iyzico**, **Yoomoney**, **Payfast**,
 **Xendit**, **Thawani**, **Flutterware**, **PayU** payment gateway.
 
 ![Payment Gateways](./images/payment-gateways.png)
